@@ -1,0 +1,23 @@
+{
+  "name": "small-software",
+  "version": "1.0.0",
+  "description": "Small Task",
+  "main": "script.js",
+  "dependencies": {
+    "swup": "^2.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelGhazaryan/Small-Software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelGhazaryan/Small-Software/issues"
+  },
+  "homepage": "https://github.com/RaphaelGhazaryan/Small-Software#readme"
+}
